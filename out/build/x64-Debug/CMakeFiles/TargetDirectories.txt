@@ -1,0 +1,10 @@
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/CMakeFiles/glad.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/CMakeFiles/imgui.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/CMakeFiles/Arkanoid.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/glfw_binary/CMakeFiles/edit_cache.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/glfw_binary/CMakeFiles/rebuild_cache.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/glfw_binary/src/CMakeFiles/glfw.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/glfw_binary/src/CMakeFiles/edit_cache.dir
+C:/Users/lexa1/Desktop/test/out/build/x64-Debug/glfw_binary/src/CMakeFiles/rebuild_cache.dir
